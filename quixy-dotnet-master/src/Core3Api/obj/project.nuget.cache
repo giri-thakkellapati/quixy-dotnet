@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hR07lPDzhfvMQgywzQix3mgHFqLITQAhZ45w4kH8A79L9RSVgV5aLnmvuxEYifkPl1ukZzpZ9gnx76/GSiovPA==",
+  "success": true,
+  "projectFilePath": "/home/giri/Downloads/quixy-dotnet-master/src/Core3Api/Core3Api.csproj",
+  "expectedPackageFiles": [
+    "/home/giri/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/giri/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/giri/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.32/microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

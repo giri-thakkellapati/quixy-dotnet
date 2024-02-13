@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Core3Api
+build_property.ProjectDir = /home/giri/Downloads/quixy-dotnet-master/src/Core3Api/
